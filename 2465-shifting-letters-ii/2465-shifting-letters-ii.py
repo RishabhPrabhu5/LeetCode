@@ -15,16 +15,13 @@ class Solution(object):
                 markers[shift[0]]+= 1
                 if shift[1] < len(s)-1:
                     markers[shift[1]+1] += -1
-        total_shifts = defaultdict(int)
-        curr = 0
-        for i in range(len(s)):
-            curr +=markers[i]
-            if curr != 0:
-                total_shifts[i] = curr
 
+        curr = 0
+        
         to_ret = list(s)
-        for i in total_shifts:
-            to_ret[i] = chr((ord(s[i])+total_shifts[i]-97)%26 + 97)
+        for i in range(len(s)):
+            curr += markers[i]
+            to_ret[i] = chr((ord(s[i])+curr-97)%26 + 97)
         return "".join(to_ret)
 
         
