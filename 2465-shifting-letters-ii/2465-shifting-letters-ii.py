@@ -19,11 +19,12 @@ class Solution(object):
         curr = 0
         for i in range(len(s)):
             curr +=markers[i]
-            total_shifts[i] = curr
+            if curr != 0:
+                total_shifts[i] = curr
 
-        to_ret = ""
+        to_ret = list(s)
         for i in total_shifts:
-            to_ret += chr((ord(s[i])+total_shifts[i]-97)%26 + 97)
-        return to_ret
+            to_ret[i] = chr((ord(s[i])+total_shifts[i]-97)%26 + 97)
+        return "".join(to_ret)
 
         
