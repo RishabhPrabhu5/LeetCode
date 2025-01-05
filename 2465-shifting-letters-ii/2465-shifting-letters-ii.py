@@ -17,7 +17,6 @@ class Solution(object):
                     markers[shift[1]+1] += -1
 
         curr = 0
-        
         to_ret = list(s)
         for i in range(len(s)):
             curr += markers[i]
