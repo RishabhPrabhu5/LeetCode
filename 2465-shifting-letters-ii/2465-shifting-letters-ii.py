@@ -17,10 +17,10 @@ class Solution(object):
                     markers[shift[1]+1] += -1
 
         curr = 0
-        to_ret = ""
+        to_ret = list(s)
         for i in range(len(s)):
             curr += markers[i]
-            to_ret+= chr((ord(s[i])+curr-97)%26 + 97)
-        return to_ret
+            to_ret[i] = chr((ord(s[i])+curr-97)%26 + 97)
+        return "".join(to_ret)
 
         
