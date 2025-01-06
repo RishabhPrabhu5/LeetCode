@@ -5,8 +5,22 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-
+        mp = defaultdict(list)
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if (nums[i]+nums[j] == target):
-                    return [i,j]
+            mp[nums[i]].append(i)
+        
+        for i in range(len(nums)):
+            first = nums[i]
+            if target-first in mp:
+                if target-first == first:
+                    if len(mp[target-first])>1:
+                        # j = -1
+                        # for num in  mp[target-first]:
+                        #     if num!= i:
+                        #         j = num
+                        #         break
+                        # return [i, j]
+                        return [i, mp[target-first][1]]
+                else:
+                    return [i, mp[target-first][0]]
+        return [0,1]
