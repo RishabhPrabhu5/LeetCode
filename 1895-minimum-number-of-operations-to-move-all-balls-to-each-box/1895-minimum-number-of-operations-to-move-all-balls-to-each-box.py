@@ -8,8 +8,12 @@ class Solution(object):
         ret = [0]*len(boxes)
         for i in range(len(boxes)):
             curr = 0
-            for idx in ones:
-                curr += abs(idx-i)
+            for j in range(len(ones)):
+                if ones[j] < 0:
+                    curr -= ones[j]
+                else:
+                    curr += ones[j]
+                ones[j]-=1
             ret[i] = curr
         return ret
         
