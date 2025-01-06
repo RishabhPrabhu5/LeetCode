@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
 | [2465-shifting-letters-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## String
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2465-shifting-letters-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2465-shifting-letters-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
