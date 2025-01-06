@@ -14,12 +14,6 @@ class Solution(object):
             if target-first in mp:
                 if target-first == first:
                     if len(mp[target-first])>1:
-                        # j = -1
-                        # for num in  mp[target-first]:
-                        #     if num!= i:
-                        #         j = num
-                        #         break
-                        # return [i, j]
                         return [i, mp[target-first][1]]
                 else:
                     return [i, mp[target-first][0]]
