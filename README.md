@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
