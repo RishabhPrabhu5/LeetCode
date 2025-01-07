@@ -7,7 +7,7 @@ class Solution(object):
         substrings = []
         for word in words:
             for second in words:
-                if second != word and word in second:
+                if word in second and second != word:
                     substrings.append(word)
                     break
         return substrings
