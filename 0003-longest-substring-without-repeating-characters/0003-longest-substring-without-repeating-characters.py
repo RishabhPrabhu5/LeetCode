@@ -4,18 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        counts = [0]
+        max_len = 0
         for start_index in range(len(s)):
             seen = set()
             count = 0
             for c in s[start_index:]:
+                print(c)
                 if c not in seen:
                     count += 1
                     seen.add(c)
+                    if count>max_len:
+                        max_len = count
                 else:
-                    counts.append(count)
                     break
-            counts.append(count)
-        return max(counts)
+        return max_len
             
         
