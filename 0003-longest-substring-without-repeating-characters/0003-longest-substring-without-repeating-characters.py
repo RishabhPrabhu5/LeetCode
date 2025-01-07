@@ -6,12 +6,12 @@ class Solution(object):
         """
         counts = [0]
         for start_index in range(len(s)):
-            seen = []
+            seen = set()
             count = 0
             for c in s[start_index:]:
                 if c not in seen:
                     count += 1
-                    seen.append(c)
+                    seen.add(c)
                 else:
                     counts.append(count)
                     break
