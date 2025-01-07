@@ -5,18 +5,20 @@ class Solution(object):
         :rtype: int
         """
         max_len = 0
+        count = 0
         for start_index in range(len(s)):
             seen = set()
             count = 0
             for c in s[start_index:]:
-                print(c)
                 if c not in seen:
                     count += 1
                     seen.add(c)
-                    if count>max_len:
-                        max_len = count
                 else:
+                    # if count>max_len:
+                    #     max_len = count
                     break
+            if count>max_len:
+                max_len = count
         return max_len
             
         
