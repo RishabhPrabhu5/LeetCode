@@ -13,7 +13,6 @@ class Solution(object):
         if not first: return head
         second = head.next
         while second:
-            print(first.val, second.val)
             if first.val == second.val:
                 first.next = second.next
                 second = second.next
