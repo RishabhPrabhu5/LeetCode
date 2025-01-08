@@ -11,7 +11,7 @@ class Solution(object):
                     continue
                 first = words[i]
                 second = words[j]
-                if len(first) <= len(second) and first == second[:len(first)] == second[-len(first):]:
+                if first == second[:len(first)] == second[-len(first):]:
                     count +=1
                     # print(first, second)
         return count
