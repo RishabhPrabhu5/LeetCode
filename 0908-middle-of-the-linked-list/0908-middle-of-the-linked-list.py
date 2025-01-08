@@ -9,8 +9,7 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        slow = head
-        fast = head
+        slow = fast = head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
