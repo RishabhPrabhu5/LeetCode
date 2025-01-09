@@ -7,7 +7,7 @@ class Solution(object):
         """
         count = 0
         for word in words:
-            if len(pref) <= len(word) and pref == word[:len(pref)]:
+            if pref == word[:len(pref)]:
                 count +=1
         return count
         
