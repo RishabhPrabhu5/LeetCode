@@ -5,6 +5,9 @@ class Solution(object):
         :type pref: str
         :rtype: int
         """
-        return sum([1 for word in words if pref == word[:len(pref)]])
-        
+        count = 0
+        for word in words:
+            if pref == word[:len(pref)]:
+                count +=1
+        return count
         
