@@ -7,6 +7,8 @@ class Solution(object):
         """
         if k>len(s):
             return False
+        if k == len(s):
+            return True
         mp = defaultdict(int)
         for l in s:
             mp[l]+=1
