@@ -14,7 +14,7 @@ class Solution(object):
         for l in mp:
             if mp[l]%2 == 1:
                 odd_count+=1
-            if odd_count > k:
-                return False
+        if odd_count > k:
+            return False
         return True
         
