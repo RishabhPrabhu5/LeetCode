@@ -16,7 +16,6 @@ class Solution(object):
 
         s = ""
         for p in ret:
-            if p != "":
-                s+= "/" + p
+            s+= "/" + p
         return s if s != "" else "/"
         
