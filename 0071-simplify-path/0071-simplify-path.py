@@ -9,7 +9,9 @@ class Solution(object):
         if len(dirs) == 0:
             return "/"
         for d in dirs:
-            if d != ".." and d!= "." and d != "":
+            if d == "":
+                continue
+            if d != ".." and d!= ".":
                 ret.append(d)
             elif d == ".." and len(ret) > 0:
                 ret.pop()
