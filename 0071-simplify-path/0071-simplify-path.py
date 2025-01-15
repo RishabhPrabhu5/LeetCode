@@ -14,8 +14,6 @@ class Solution(object):
             elif d == ".." and len(ret) > 0:
                 ret.pop()
 
-        s = ""
-        for p in ret:
-            s+= "/" + p
+        s = "/" + "/".join(ret)
         return s if s != "" else "/"
         
