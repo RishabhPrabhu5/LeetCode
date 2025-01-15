@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
