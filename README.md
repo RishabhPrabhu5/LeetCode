@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
 | [1666-make-the-string-great](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1666-make-the-string-great) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
