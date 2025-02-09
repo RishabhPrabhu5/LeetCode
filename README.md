@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhPrabhu5/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
 | ------- |
