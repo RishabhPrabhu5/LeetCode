@@ -8,6 +8,7 @@ class Solution(object):
         seen = set()
         nums.sort()
         for i in range(len(nums)-2):
+            if nums[i] > 0: break
             j = i+1
             k = len(nums)-1
             if i in seen: continue
