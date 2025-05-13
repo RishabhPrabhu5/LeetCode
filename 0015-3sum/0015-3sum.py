@@ -11,6 +11,7 @@ class Solution(object):
             j = i+1
             k = len(nums)-1
             if i in seen: continue
+            if nums[i] < -2 * nums[k]: continue
             while j < k:
                 if nums[i] + nums[j] + nums[k] <0:
                     j+=1
