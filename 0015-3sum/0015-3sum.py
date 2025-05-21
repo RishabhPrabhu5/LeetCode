@@ -7,7 +7,6 @@ class Solution(object):
         ret = []
         seen = set()
         nums.sort()
-        print(nums)
         for i in range(len(nums)-2):
             if nums[i] > 0: break
             j = i+1
