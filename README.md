@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
