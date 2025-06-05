@@ -4,15 +4,13 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        dct = {}
-        ret = []
-        for word in strs:
-            s = "".join(sorted(word))
-            if s in dct.keys():
-                ret[dct[s]].append(word)
-            else:
-                ret.append([word])
-                dct[s] = len(ret) -1
-        return ret
+        ans = collections.defaultdict(list)
+
+        for s in strs:
+            count = [0] * 26
+            for c in s:
+                count[ord(c) - ord("a")] += 1
+            ans[tuple(count)].append(s)
+        return list(ans.values())
 
         
