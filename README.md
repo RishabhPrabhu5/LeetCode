@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
