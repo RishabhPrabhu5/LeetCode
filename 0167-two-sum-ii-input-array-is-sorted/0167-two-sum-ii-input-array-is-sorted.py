@@ -5,14 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        r = len(numbers)-1
-        l = 0
-        while r>l:
-            sum = numbers[r] + numbers[l]
-            if sum == target:
-                return [l+1, r+1]
-            elif sum < target:
-                l +=1
+        a, b = 0, len(numbers)-1
+        while a < b:
+            sums = numbers[a] + numbers[b]
+            if sums == target:
+                return [a+1, b+1]
+            elif sums > target:
+                b -= 1
             else:
-                r-=1
+                a += 1
+        return []
         
