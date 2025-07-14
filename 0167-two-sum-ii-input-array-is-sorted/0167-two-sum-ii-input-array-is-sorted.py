@@ -8,9 +8,10 @@ class Solution(object):
         r = len(numbers)-1
         l = 0
         while r>l:
-            if numbers[r] + numbers[l] == target:
+            sum = numbers[r] + numbers[l]
+            if sum == target:
                 return [l+1, r+1]
-            elif numbers[r] + numbers[l] < target:
+            elif sum < target:
                 l +=1
             else:
                 r-=1
