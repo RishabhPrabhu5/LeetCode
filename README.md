@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
