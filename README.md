@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
