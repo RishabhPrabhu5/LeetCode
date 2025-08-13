@@ -25,7 +25,6 @@ class Solution(object):
                 dp[i] = dp[i-1] + arr[i]*mp[arr[i]]
             else:
                 dp[i] = max(arr[i]*mp[arr[i]] + dp[i-2], dp[i-1])
-        print(dp)
 
         return dp[len(arr)-1]
  
