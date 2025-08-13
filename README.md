@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
+| [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
+| [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
+| [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
