@@ -11,10 +11,8 @@ class Solution(object):
                 ret.append(interval)
             elif ret[-1][1] >= interval[1]:
                 continue
-            elif ret[-1][0] < interval[0]:
-                ret[-1][1] = interval[1]
             else:
-                ret[-1] = interval
+                ret[-1][1] = interval[1]
         return ret
         
 
