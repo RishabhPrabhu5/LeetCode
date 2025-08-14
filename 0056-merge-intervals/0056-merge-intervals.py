@@ -4,28 +4,18 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
         """
+        ret = []
         intervals.sort()
-        merged = []
-        curr = intervals[0]
-        if len(intervals) ==1:
-            return intervals
-
-        for i in range(1, len(intervals)):
-            # print(i)
-            # print(curr)
-            # print(intervals[i])
-            # print()
-            
-            if curr[1]>=intervals[i][0]:
-                if curr[1]<=intervals[i][1]:
-                    curr = [curr[0], intervals[i][1]]
+        for interval in intervals:
+            if len(ret) == 0 or ret[-1][1] < interval[0]:
+                ret.append(interval)
+            elif ret[-1][1] >= interval[1]:
+                continue
+            elif ret[-1][0] < interval[0]:
+                ret[-1][1] = interval[1]
             else:
-                merged.append(curr)
-                # print(merged)
-                curr = intervals[i]
-            if i == len(intervals) -1:
-                merged.append(curr)
-
-        return merged
+                ret[-1] = interval
+        return ret
+        
 
         
