@@ -11,7 +11,6 @@ class Solution(object):
         count = 0
         total = sum(arr[:k])
         while r < len(arr):
-            print(total)
             if total >= k * threshold:
                 count +=1
             total -= arr[l]
