@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -194,9 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
