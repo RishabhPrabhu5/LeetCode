@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 ## Memoization
 |  |
 | ------- |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
