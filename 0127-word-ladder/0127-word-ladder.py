@@ -8,6 +8,7 @@ class Solution(object):
         """
         wordSet = set(wordList)
         if endWord not in wordSet: return 0
+        
         seen = set()
         alph = "abcdefghijklmnopqrstuvwxyz"
 
