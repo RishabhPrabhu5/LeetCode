@@ -17,7 +17,7 @@ class Solution(object):
             if board[r][len(board[0])-1] == "O":
                 dfs_queue.append((r,len(board[0])-1))
 
-        print(dfs_queue)
+        # print(dfs_queue)
 
         while len(dfs_queue) > 0:
             row, col = dfs_queue.pop(0)
@@ -32,8 +32,8 @@ class Solution(object):
                 if col <len(board[0])-1 and board[row][col+1] == "O":
                     dfs_queue.append((row, col+1))
 
-        for r in range(len(board)):
-            print(board[r])
+        # for r in range(len(board)):
+        #     print(board[r])
 
         for r in range(len(board)):
             for c in range(len(board[0])):
@@ -43,9 +43,9 @@ class Solution(object):
             for c in range(len(board[0])):
                 if board[r][c] == "S":
                     board[r][c] = "O"
-        print()
-        for r in range(len(board)):
-            print(board[r])
+        # print()
+        # for r in range(len(board)):
+        #     print(board[r])
 
 
         
