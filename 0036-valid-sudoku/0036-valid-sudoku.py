@@ -4,35 +4,26 @@ class Solution(object):
         :type board: List[List[str]]
         :rtype: bool
         """
-        rows = {} #dict of sets
-        columns = {}
-        squares = {}
+        rows = [set() for _ in range(9)]
+        columns = [set() for _ in range(9)]
+        squares = [set() for _ in range(9)]  # 3x3 boxes
 
-        for r in range(len(board)):
-            for c in range(len(board[0])):
+        for r in range(9):
+            for c in range(9):
                 elem = board[r][c]
-                square_idx = c//3 + (r//3)*3
-                if c == 0:
-                    rows[r] = set()
-                if r == 0:
-                    columns[c] = set()
-                if square_idx not in squares.keys():
-                    squares[square_idx] = set()
+                if elem == ".":
+                    continue
 
-                if elem in rows[r]:
-                    return False
-                elif elem != ".":
-                    rows[r].add(elem)
+                square_idx = (r // 3) * 3 + (c // 3)
 
-                if elem in columns[c]:
+                if elem in rows[r] or elem in columns[c] or elem in squares[square_idx]:
                     return False
-                elif elem != ".":
-                    columns[c].add(elem)
 
-                if elem in squares[square_idx]:
-                    return False
-                elif elem != ".":
-                    squares[square_idx].add(elem)
+                rows[r].add(elem)
+                columns[c].add(elem)
+                squares[square_idx].add(elem)
+
         return True
+
                 
         
