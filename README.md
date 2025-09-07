@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
