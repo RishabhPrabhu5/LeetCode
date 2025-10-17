@@ -4,7 +4,7 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        dp = {}
+        dp = [0] * (len(cost)+1)
         dp[1] = cost[0]
         dp[2] = min(cost[0], cost[1])
         if len(cost) < 3:
