@@ -14,8 +14,6 @@ class Solution(object):
                     count += 1
                     seen.add(c)
                 else:
-                    # if count>max_len:
-                    #     max_len = count
                     break
             if count>max_len:
                 max_len = count
