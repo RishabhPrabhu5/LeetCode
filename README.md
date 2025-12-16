@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
