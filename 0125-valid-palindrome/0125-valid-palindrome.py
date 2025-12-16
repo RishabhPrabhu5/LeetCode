@@ -6,7 +6,6 @@ class Solution(object):
         """
         cleaned_string = "".join(c for c in s if c.isalnum())
         s =  cleaned_string.lower()
-        print(s)
         l = 0
         r = len(s) -1
         while l < r:
