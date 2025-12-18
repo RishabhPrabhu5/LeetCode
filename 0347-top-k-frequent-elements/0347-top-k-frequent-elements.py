@@ -5,26 +5,18 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        n = len(nums)
-        buckets = defaultdict(set)
-        freq = defaultdict(int)
-        for i in range(n):
-            freq[nums[i]] +=1
+        count = {}
+        freq = [[] for i in range(len(nums) + 1)]
 
-        for num in freq:
-            buckets[freq[num]-1].add(num)
-        
-        idx = n-1
-        count = 0
-        ret = []
-        
-        while idx > -1 and count < k:
-            if buckets[idx] != set():
-                to_add = list(buckets[idx])
-                while count < k and len(to_add) > 0:
-                    ret.append(to_add.pop())
-                    count +=1
-            idx -=1
-            
-        return ret
+        for num in nums:
+            count[num] = 1 + count.get(num, 0)
+        for num, cnt in count.items():
+            freq[cnt].append(num)
+
+        res = []
+        for i in range(len(freq) - 1, 0, -1):
+            for num in freq[i]:
+                res.append(num)
+                if len(res) == k:
+                    return res
         
