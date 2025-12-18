@@ -4,7 +4,7 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        ans = collections.defaultdict(list)
+        ans = defaultdict(list)
 
         for s in strs:
             count = [0] * 26
