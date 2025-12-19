@@ -5,34 +5,19 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
+        res = [1] * n  # Output array
 
-        # Initialize the result array.
-        # res[i] will eventually hold the product of all elements except nums[i].
-        res = [1] * n
-
-        # -------------------------------
-        # First loop: prefix products
-        # -------------------------------
-        # res[i] will store the product of all elements to the LEFT of index i.
+        # Compute prefix products
         prefix = 1
         for i in range(n):
-            # At index i, store the product of all previous elements
-            res[i] = prefix
-            
-            # Update prefix to include nums[i] for the next index
-            prefix *= nums[i]
+            res[i] = prefix          # Product of elements to the left
+            prefix *= nums[i]        # Update prefix
 
-        # -------------------------------
-        # Second loop: suffix products
-        # -------------------------------
-        # Multiply into res[i] the product of all elements to the RIGHT of index i.
+        # Compute suffix products
         suffix = 1
         for i in range(n - 1, -1, -1):
-            # Multiply the existing prefix product with the suffix product
-            res[i] *= suffix
-            
-            # Update suffix to include nums[i] for the next index to the left
-            suffix *= nums[i]
+            res[i] *= suffix         # Multiply by right-side product
+            suffix *= nums[i]        # Update suffix
 
         return res
 
