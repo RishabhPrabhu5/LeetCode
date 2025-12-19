@@ -4,17 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        forward = [1]
-        for i in range(1, len(nums)):
-            forward.append(forward[-1] * nums[i-1])
-        
-        backward = [1]
-        for i in range(len(nums)-1, 0, -1):
-            backward.insert(0, backward[0] * nums[i])
-    
-        # print(forward, backward)
-        ret = []    
-        for i in range(len(forward)):
-            ret.append(forward[i] * backward[i])
-        return ret
+        n = len(nums)
+        res = [0] * n
+        pref = [0] * n
+        suff = [0] * n
+
+        pref[0] = suff[n - 1] = 1
+        for i in range(1, n):
+            pref[i] = nums[i - 1] * pref[i - 1]
+        for i in range(n - 2, -1, -1):
+            suff[i] = nums[i + 1] * suff[i + 1]
+        for i in range(n):
+            res[i] = pref[i] * suff[i]
+        return res
         
