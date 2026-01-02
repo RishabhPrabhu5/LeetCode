@@ -11,8 +11,7 @@ class Solution(object):
                 starts.add(num)
         
         max_len = 0
-        for start in starts:
-            curr = start
+        for curr in starts:
             count = 1
             while curr+1 in num_set:
                 count +=1
