@@ -5,11 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        a, b = 0, len(numbers)-1
+        a, b = 1, len(numbers)
         while a < b:
-            sums = numbers[a] + numbers[b]
+            sums = numbers[a-1] + numbers[b-1]
             if sums == target:
-                return [a+1, b+1]
+                return [a, b]
             elif sums > target:
                 b -= 1
             else:
