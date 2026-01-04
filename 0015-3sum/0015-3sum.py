@@ -4,7 +4,7 @@ class Solution:
         nums.sort()
 
         for i in range(len(nums)-2):
-            if i > 0 and nums[i] == nums[i-1] or nums[i]>0 :
+            if (i > 0 and nums[i] == nums[i-1]) or nums[i]>0 :
                 continue
             
             j = i + 1
