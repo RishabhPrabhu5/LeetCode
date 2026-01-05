@@ -5,18 +5,12 @@ class Solution(object):
         :rtype: int
         """
 
-        min = 10000
-        max = 0
-        profit = 0
-        for price in prices:
-            if price< min:
-                min = price
-                max = 0
-            if price>max:
-                max = price
-            if max - min > profit:
-                    profit = max-min
-
-        return 0 if profit <0 else profit
+        min_seen = 10000
+        m = 0
+        for i in range(len(prices)):
+            min_seen = min(min_seen, prices[i])
+            curr = prices[i] - min_seen
+            m = max(m, curr)
+        return m
 
             
