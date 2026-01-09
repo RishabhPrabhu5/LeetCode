@@ -4,21 +4,22 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        last_idx = {}
         if len(s) < 2:
             return len(s)
-        max_len = 1
-        start = 0
-        for i in range(len(s)):
-            c = s[i]
-            if c in last_idx and last_idx[c] >= start:
-                max_len = max(max_len, i - start)
-                start = last_idx[c]+1
-            last_idx[c] = i
-            
-        max_len = max(max_len, i - start + 1)
 
-        return max_len
+        l, r = 0, 0
+        seen = {s[l], s[r]}
+        max = 0
+        while r < len(s)-1:
+            while s[r+1] in seen:
+                seen.remove(s[l])
+                l+=1
+            r +=1
+            seen.add(s[r])
+            if r-l+1 > max:
+                max = r-l+1
+                print(r, l)
+        return max
 
 
                 
