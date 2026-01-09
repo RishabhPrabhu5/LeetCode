@@ -4,19 +4,30 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        max_left = []
-        curr = 0
-        for num in height:
-            curr = max(curr, num)
-            max_left.append(curr)
-        max_right = []
-        curr = 0
-        for i in range(len(height)-1, -1, -1):
-            curr = max(curr, height[i])
-            max_right.insert(0, curr)
-
-        ret = 0
-        for i in range(len(height)):
-            ret += max(min(max_left[i], max_right[i])-height[i], 0)
-        return ret
+        if not height:
+            return 0
+    
+        left, right = 0, len(height) - 1
+        left_max, right_max = 0, 0
+        res = 0
+        
+        while left < right:
+            if height[left] < height[right]:
+                # If current left height is a new max, update it
+                if height[left] >= left_max:
+                    left_max = height[left]
+                else:
+                    # Otherwise, it must be able to trap water
+                    res += left_max - height[left]
+                left += 1
+            else:
+                # If current right height is a new max, update it
+                if height[right] >= right_max:
+                    right_max = height[right]
+                else:
+                    # Otherwise, it must be able to trap water
+                    res += right_max - height[right]
+                right -= 1
+                
+        return res
         
