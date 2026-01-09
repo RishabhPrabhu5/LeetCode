@@ -4,30 +4,43 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        if not height:
+        n = len(height)
+        if n < 3:
             return 0
-    
-        left, right = 0, len(height) - 1
-        left_max, right_max = 0, 0
-        res = 0
+
+        max_left = [0] * n
+        max_right = [0] * n
         
-        while left < right:
-            if height[left] < height[right]:
-                # If current left height is a new max, update it
-                if height[left] >= left_max:
-                    left_max = height[left]
-                else:
-                    # Otherwise, it must be able to trap water
-                    res += left_max - height[left]
-                left += 1
-            else:
-                # If current right height is a new max, update it
-                if height[right] >= right_max:
-                    right_max = height[right]
-                else:
-                    # Otherwise, it must be able to trap water
-                    res += right_max - height[right]
-                right -= 1
+        curr_l = 0
+        curr_r = 0
+        
+        # Single pass to fill both boundary arrays
+        for i in range(n):
+            # Left-to-right logic
+            h_l = height[i]
+            if h_l > curr_l:
+                curr_l = h_l
+            max_left[i] = curr_l
+            
+            # Right-to-left logic (using negative indexing)
+            # i=0 fills the last index, i=1 fills second to last, etc.
+            r_idx = n - 1 - i
+            h_r = height[r_idx]
+            if h_r > curr_r:
+                curr_r = h_r
+            max_right[r_idx] = curr_r
+
+        # Final calculation pass
+        ret = 0
+        for i in range(n):
+            # Optimized min(max_left[i], max_right[i])
+            ml, mr = max_left[i], max_right[i]
+            lower_wall = ml if ml < mr else mr
+            
+            # Optimized max(lower_wall - height[i], 0)
+            diff = lower_wall - height[i]
+            if diff > 0:
+                ret += diff
                 
-        return res
-        
+        return ret
+            
