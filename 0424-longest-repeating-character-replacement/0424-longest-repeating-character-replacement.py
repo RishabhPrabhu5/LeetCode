@@ -4,7 +4,7 @@ class Solution(object):
         if len(arr) == 1:
             return True
         else:
-            return sum(sorted(arr)[:-1]) <= k
+            return sum(arr) - max(arr) <= k
     def characterReplacement(self, s, k):
         """
         :type s: str
