@@ -11,29 +11,30 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        # v1 = {"B":2, "C":1}
-        # i1 = {"A":2, "B":2}
-        # print(self.check_valid(v1, 1))
-        # print(self.check_valid(i1, 1))
-
-        if len(s) < 2:
-            return len(s)
-        l, r = 0, 0
-        max_len = 1
+        l = 0
+        max_f = 0
+        max_len = 0
         seen_dict = defaultdict(int)
-        seen_dict[s[0]] = 1
-        while r < len(s)-1:
-            r+=1
-            seen_dict[s[r]] +=1
-            while (self.check_valid(seen_dict, k)) == False:
-                seen_dict[s[l]] -=1
-                l +=1
-                # print(seen_dict)
-                # print(l, r)
-                
-            if r-l+1 > max_len:
-                max_len = r-l +1
-                # print(l, r)
-        return max_len 
+        
+        for r in range(len(s)):
+            # 1. Add the new character
+            seen_dict[s[r]] += 1
+            
+            # 2. Update the maximum frequency found in the current window
+            max_f = max(max_f, seen_dict[s[r]])
+            
+            # 3. Check validity: (Window size - Max Frequency)
+            # If we have more than 'k' characters to replace, shrink from the left
+            while (r - l + 1) - max_f > k:
+                seen_dict[s[l]] -= 1
+                l += 1
+                # Note: Interestingly, max_f doesn't need to be decreased here. 
+                # A smaller max_f would only make the window 'less' valid, 
+                # so it won't help us find a new maximum length.
+            
+            # 4. Update the global max length
+            max_len = max(max_len, r - l + 1)
+            
+        return max_len
 
         
