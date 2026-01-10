@@ -1,10 +1,10 @@
 class Solution(object):
     def check_valid(self, dict, k):
-        sorted_arr = sorted(dict.values())
-        if len(sorted_arr) == 1:
+        arr = dict.values()
+        if len(arr) == 1:
             return True
         else:
-            return sum(sorted_arr[:-1]) <= k
+            return sum(sorted(arr)[:-1]) <= k
     def characterReplacement(self, s, k):
         """
         :type s: str
