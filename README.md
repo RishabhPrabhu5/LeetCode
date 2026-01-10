@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0454-4sum-ii) |
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String Matching
 |  |
