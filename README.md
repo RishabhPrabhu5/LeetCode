@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0567-permutation-in-string) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String Matching
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
