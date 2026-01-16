@@ -9,7 +9,6 @@ class Solution(object):
         if n > m:
             return ""
 
-        target = Counter(t)
         curr = Counter(t)          # counts still needed
         remaining = n              # total characters still needed
         length = 0
@@ -20,7 +19,7 @@ class Solution(object):
         while r < m:
             # Add character on the right
             right_char = s[r]
-            if right_char in target:
+            if right_char in curr:
                 if curr[right_char] > 0:
                     remaining -= 1
                 curr[right_char] -= 1
@@ -34,7 +33,7 @@ class Solution(object):
                     best_l = l
 
                 left_char = s[l]
-                if left_char in target:
+                if left_char in curr:
                     curr[left_char] += 1
                     if curr[left_char] > 0:
                         remaining += 1
