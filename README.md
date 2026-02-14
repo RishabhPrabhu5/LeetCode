@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0155-min-stack) |
 | [1666-make-the-string-great](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1666-make-the-string-great) |
 ## Divide and Conquer
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Monotonic Stack
 |  |
