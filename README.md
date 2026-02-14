@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
 | [1666-make-the-string-great](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1666-make-the-string-great) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
 ## Tree
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
 ## Queue
 |  |
 | ------- |
