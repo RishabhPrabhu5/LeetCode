@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0454-4sum-ii) |
+| [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1666-make-the-string-great) |
 ## Divide and Conquer
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
