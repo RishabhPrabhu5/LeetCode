@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0454-4sum-ii) |
+| [0704-binary-search](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
