@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 ## Memoization
 |  |
