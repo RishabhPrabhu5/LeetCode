@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
 ## Queue
