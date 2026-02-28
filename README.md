@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
