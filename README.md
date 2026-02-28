@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
+| [1323-maximum-69-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Trie
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1236-n-th-tribonacci-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
