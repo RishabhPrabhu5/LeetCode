@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [1323-maximum-69-number](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2285-maximum-total-importance-of-roads](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Trie
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
+| [2285-maximum-total-importance-of-roads](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2285-maximum-total-importance-of-roads](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Merge Sort
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Graph Theory
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
