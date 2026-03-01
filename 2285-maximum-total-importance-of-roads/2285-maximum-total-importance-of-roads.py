@@ -13,13 +13,8 @@ class Solution(object):
             degrees[b] +=1
         
         sort = sorted(degrees)
-        print(sort)
 
-        s = 0
-        for i in range(n):
-            s += (i+1) * sort[i]
-
-        return s
+        return sum([(i+1)*sort[i] for i in range(n)])
 
             
         
