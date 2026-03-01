@@ -233,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0098-validate-binary-search-tree](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0130-surrounded-regions) |
 ## Union Find
 |  |
