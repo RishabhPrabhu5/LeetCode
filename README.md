@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0952-word-subsets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/RishabhPrabhu5/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0704-binary-search](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
