@@ -14,7 +14,7 @@ class Solution(object):
             if time <= h:
                 best = m
                 r = m
-            if time > h:
+            else:
                 l = m+1
         return best
 
