@@ -10,7 +10,7 @@ class Solution(object):
         best = r
         while l < r:
             m = (l+r)//2
-            time = sum([math.ceil(float(x)/m) for x in piles])
+            time = sum((p + m - 1) // m for p in piles)
             if time <= h:
                 best = m
                 r = m
