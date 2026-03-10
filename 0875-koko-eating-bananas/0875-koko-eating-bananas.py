@@ -7,13 +7,15 @@ class Solution(object):
         """
         l = 1
         r = max(piles)
+        best = r
         while l < r:
             m = (l+r)//2
             time = sum((p + m - 1) // m for p in piles)
             if time <= h:
+                best = m
                 r = m
             else:
                 l = m+1
-        return l
+        return best
 
         
