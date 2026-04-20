@@ -337,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/RishabhPrabhu5/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/RishabhPrabhu5/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
