@@ -5,8 +5,6 @@ def ads_performance(ads: pd.DataFrame) -> pd.DataFrame:
         (100 * sum(x == "Clicked")/(sum(x == "Clicked") + sum(x == "Viewed"))) if 
         (sum(x == "Clicked") + sum(x == "Viewed")) > 0 else 0.00
     , 2)).reset_index()
-
-    print(ctr)
     ctr.columns = ['ad_id', 'ctr']
     
 
