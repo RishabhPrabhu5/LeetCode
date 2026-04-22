@@ -15,7 +15,5 @@ class Solution(object):
                 r = m-1
             if nums[m] < target:
                 l = m+1
-        if nums[r] == target:
-            return r
         return -1
         
